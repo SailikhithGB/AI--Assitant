@@ -1,0 +1,19 @@
+requests
+pyttsx3
+SpeechRecognition
+PyAudioWPatch
+
+# Optional free/local tools (enable only if you use them)
+opencv-python
+numpy
+pyautogui
+pygame
+fastapi
+uvicorn
+beautifulsoup4
+lxml
+faiss-cpu
+networkx
+nltk
+scipy
+scikit-learn
